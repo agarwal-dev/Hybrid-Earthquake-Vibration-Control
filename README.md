@@ -70,8 +70,7 @@ The physical system consists of:
 <img width="1547" height="791" alt="Modes on Ansys" src="https://github.com/user-attachments/assets/ece05a0b-c17f-42bb-8d8b-7f77cfc3fdac" />
 
 
-
-https://github.com/user-attachments/assets/04d423e2-4ce9-4a21-a91d-7cfd6e0292d5
+https://github.com/user-attachments/assets/708dc5bd-00dd-447a-ac16-04566eecffb7
 
 
 
