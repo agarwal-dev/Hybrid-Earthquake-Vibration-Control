@@ -71,6 +71,12 @@ The physical system consists of:
 
 
 
+https://github.com/user-attachments/assets/04d423e2-4ce9-4a21-a91d-7cfd6e0292d5
+
+
+
+
+
 
 ## Project Status
 
